@@ -1,0 +1,103 @@
+/* page titles */
+.page_title_style{
+	font-size: 40px;
+	font-weight: bold;
+	/*font-family: */
+}
+
+
+
+/* about 
+
+*/
+
+.font_style{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 125px;
+	padding-right: 125px;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	font-size: 18px;
+	text-indent: 50px;
+}
+
+/* vimeo */
+.iframe_style{
+	width: 100%;
+	max-width: 100%;
+	margin-top: 25px;
+	margin-bottom: 75px;
+	height: 480px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.video_container{
+
+}
+
+/* flick div image style */
+.flick_style{
+	width: 100%;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.photo_container{
+	
+}
+
+/* navbar 
+	to do: 	add a nav bar media query to shrink the height of buttons when device is smaller. 
+			add a query to do something with the logo when the device changes sizes
+			keep the logo centred in its div
+			adjust the font
+			change font for buttons
+			style navbar colors
+			style footer
+*/
+.NavButton > .btn {
+	margin: 0 auto;
+	width: 100%;
+	height: 50px;
+	border-radius: 0px;
+	padding-top: 10px;
+}
+
+.NavButtonColumn > .col-md-2 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.NavStyle{
+	background-color: #0080B0;
+	color: white;
+	border-width: 0px;
+	border-radius: 0px;
+
+}
+
+.ButtonStyle{
+	color: white;
+	font-size: 18px;
+	background-color: #0080B0;
+	border-color: #0080B0;
+	font-family: serif;
+}
+
+.logo_style{
+	font-size: 24px;
+	font-family: serif;
+	padding-top: 5px;
+}
+
+@media screen (min-width: 768px) {
+	.navbar-header, .navbar-brand{
+		float: none;
+		text-align: center;
+	}
+}
