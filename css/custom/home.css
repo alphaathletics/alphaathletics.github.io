@@ -13,10 +13,13 @@
 
 
 /* page titles */
-.page_title_style{
-	font-size: 40px;
-	font-weight: bold;
-	/*font-family: */
+.punchline_style{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 3%;
+	padding-top: 4%;
 }
 
 
@@ -28,10 +31,10 @@
 .font_style{
 	margin-left: auto;
 	margin-right: auto;
-	padding-left: 125px;
-	padding-right: 125px;
-	padding-bottom: 5%;
-	padding-top: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 4%;
+	padding-top: 4%;
 	font-size: 18px;
 	text-indent: 50px;
 }
