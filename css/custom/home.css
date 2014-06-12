@@ -1,3 +1,17 @@
+
+
+/* panel */
+
+.panel{
+	background-color: #0080B0;
+	color: white; 
+	border-color: black;
+}
+
+
+
+
+
 /* page titles */
 .page_title_style{
 	font-size: 40px;
