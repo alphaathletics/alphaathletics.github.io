@@ -2,11 +2,18 @@
 
 /* panel */
 
-.panel{
+.panel-wrapper > .panel{
 	background-color: #0080B0;
 	color: white; 
 	border-color: black;
 }
+
+.panel_wrapper > .panel{
+	border-color: #DDD;
+	border-width: 10px;
+	border-radius: 10px;
+}
+
 
 .youtube{
 	width: 100%;
