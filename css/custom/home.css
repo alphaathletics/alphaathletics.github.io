@@ -53,13 +53,12 @@
 .font_style{
 	margin-left: auto;
 	margin-right: auto;
-	padding-left: 5%;
 	padding-right: 5%;
 	padding-bottom: 4%;
-	padding-top: 4%;
+	padding-top: 15px;
 	font-size: 20px;
-	text-indent: 50px;
 	font-family: calibri, serif;
+	text-indent: 50px;
 }
 
 /* vimeo */
@@ -98,10 +97,20 @@
 	max-width: 100%;
 }
 
+.logo_container > img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	/*border-radius: 25px;*/
+}
+
 .logo_photo{
-	border-radius: 25px;
-	border-color: black;
-	border-width: 10px;
+	border-radius: 45px;
+	border-width: 5px;
+	border-color: 5px;
 }
 
 .table{
