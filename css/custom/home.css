@@ -1,7 +1,6 @@
 
 
 /* panel */
-
 .panel-wrapper > .panel{
 	/*background-color: #0080B0;*/
 	color: black; 
@@ -13,14 +12,11 @@
 	padding-top: 15px;
 }
 
-
-
 .panel_wrapper > .panel{
 	border-color: #DDD;
 	border-width: 10px;
 	border-radius: 10px;
 }
-
 
 .youtube{
 	width: 100%;
@@ -165,14 +161,24 @@
 	border-color: 5px;
 }
 
-.table{
-	border-color: black;
-	border-radius: 20px;
-	border-width: 20px;
-	padding-left: 5%;
-	padding-right: 5%;
+.table_wrapper > .table
+{
+	font-size: 18px;
 }
 
+
+.table_wrapper{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.tabl_elem_wrapper{
+
+}
+
+.tabl_elem_wrapper > th, td{
+
+}
 /* navbar 
 	to do: 	add a nav bar media query to shrink the height of buttons when device is smaller. 
 			add a query to do something with the logo when the device changes sizes
