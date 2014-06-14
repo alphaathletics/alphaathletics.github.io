@@ -125,6 +125,8 @@
 	padding-bottom: 0px;
 	border-color: #009080;
 	border-width: 1px;
+	border-top: 0px;
+	border-bottom: 0px;
 }
 
 .NavButtonColumn > .col-md-4 {
