@@ -149,18 +149,18 @@
 }
 
 .NavStyle{
-	background-color: #0080B0;
-	color: #;
+	background-color: #661100;
+	color: white;
 	border-width: 1px;
 	border-radius: 0px;
-	border-color: #009080;
+	border-color: white;
 }
 
 .ButtonStyle{
 	color: white;
 	font-size: 22px;
-	background-color: #0080B0;
-	border-color: #0080B0;
+	background-color: #661100;
+	border-color: white;
 	font-family: sans-serif;
 	font-weight: bold;
 }
