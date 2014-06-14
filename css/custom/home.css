@@ -3,11 +3,17 @@
 /* panel */
 
 .panel-wrapper > .panel{
-	background-color: #0080B0;
-	color: white; 
+	/*background-color: #0080B0;*/
+	color: black; 
 	border-color: black;
 	font-size: 16px;
 }
+
+.panel-wrapper{
+	padding-top: 15px;
+}
+
+
 
 .panel_wrapper > .panel{
 	border-color: #DDD;
@@ -15,9 +21,6 @@
 	border-radius: 10px;
 }
 
-.panel-wrapper{
-	padding-top: 15px;
-}
 
 .youtube{
 	width: 100%;
@@ -45,10 +48,56 @@
 }
 
 
-
-/* about 
+/* font 
 
 */
+
+.logo_style{
+	padding-top: 5px;
+	padding-bottom: 15px;
+
+	font-size: 24px;
+	font-family: serif;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+
+	color: #661100;
+}
+
+.address_extra{
+	padding-left: 50px;
+}
+
+.___font_style{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 15px;
+
+	font-size: 18px;
+	font-family: calibri, serif;
+
+}
+
+.__font_style{
+	font-weight: bold;
+	color: #661100;
+}
+
+._font_style{
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+
+	text-indent: 50px;
+	font-size: 18px;
+	font-family: calibri, serif;
+
+}
 
 .font_style{
 	margin-left: auto;
@@ -87,7 +136,7 @@
 }
 
 .photo_container{
-		
+	
 }
 
 .photo_container > img{
@@ -178,11 +227,7 @@
 	font-weight: bold;
 }
 */
-.logo_style{
-	font-size: 24px;
-	font-family: serif;
-	padding-top: 5px;
-}
+
 
 @media screen (min-width: 768px) {
 	.navbar-header, .navbar-brand{
