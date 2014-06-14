@@ -53,10 +53,10 @@
 .font_style{
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 10px;
 	padding-right: 5%;
-	padding-bottom: 4%;
-	padding-top: 15px;
-	font-size: 20px;
+	padding-top: 35px;
+	font-size: 18px;
 	font-family: calibri, serif;
 	text-indent: 50px;
 }
