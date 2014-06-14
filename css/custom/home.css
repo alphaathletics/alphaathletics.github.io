@@ -93,8 +93,11 @@
 .photo_container > img{
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 15px;
 	width: 100%;
 	max-width: 100%;
+
+	border-radius: 9px;
 }
 
 .logo_container > img{
