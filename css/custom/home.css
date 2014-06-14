@@ -6,6 +6,7 @@
 	background-color: #0080B0;
 	color: white; 
 	border-color: black;
+	font-size: 16px;
 }
 
 .panel_wrapper > .panel{
@@ -120,26 +121,26 @@
 	border-radius: 0px;
 	padding-top: 10px;
 	padding-bottom: 0px;
+	border-color: #009080;
+	border-width: 1px;
 }
 
-.NavButtonColumn > .col-md-2 {
+.NavButtonColumn > .col-md-3 {
 	padding-left: 0px;
 	padding-right: 0px;
 }
 
 .NavStyle{
 	background-color: #0080B0;
-	color: white;
-	border-width: 0px;
+	color: #;
+	border-width: 2px;
 	border-radius: 0px;
-
+	border-color: #009080;
 }
 
 .ButtonStyle{
 	color: white;
 	font-size: 22px;
-	line-height: 15px;
-	vertical-align: middle;
 	background-color: #0080B0;
 	border-color: #0080B0;
 	font-family: sans-serif;
