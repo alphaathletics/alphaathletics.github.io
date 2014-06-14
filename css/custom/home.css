@@ -3,6 +3,7 @@
 /* panel */
 
 .panel-wrapper > .panel{
+	padding-top: 10px;
 	background-color: #0080B0;
 	color: white; 
 	border-color: black;
@@ -15,6 +16,9 @@
 	border-radius: 10px;
 }
 
+.panel_wrapper{
+	padding-top: 15px;
+}
 
 .youtube{
 	width: 100%;
@@ -94,7 +98,6 @@
 	margin-right: auto;
 	width: 100%;
 	max-width: 100%;
-	
 }
 
 .table{
