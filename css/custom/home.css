@@ -178,14 +178,20 @@
 	font-size: 16px;
 	max-width: 100%;
 	width: 100%;
+	font-size: 18px;
+	font-family: calibri, serif;
 	/*border-width: 2px;
 	border-color: black;*/
 }
 
+th{
+	font-color: #661100;
+}
+
 
 .table_wrapper{
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
 	padding-top: 15px;
 	
 }
