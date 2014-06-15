@@ -9,12 +9,11 @@ $(document).ready(function(){
 $('#home').hover(function()
 {
 	$('#home').css( "background-color" , "#009080" );
-	$('#home').css( "border-color" , "black" );
+
 }
 ,function()
 {
 	$('#home').css( "background-color", "#661100" );
-	$('#home').css( "border-color", "white" );
 
 });
 
