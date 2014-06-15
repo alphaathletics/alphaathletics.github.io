@@ -1,4 +1,9 @@
 
+.link_style > a{
+	padding-left: 30px;
+}
+
+
 
 /* panel */
 .panel-wrapper > .panel{

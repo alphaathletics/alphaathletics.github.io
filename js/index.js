@@ -1,4 +1,11 @@
 
+$(document).ready(function(){
+	$('#home').css( "border-right", "0px" );
+	$('#photos').css( "border-right", "0px" );
+});
+
+
+
 $('#home').hover(function()
 {
 	$('#home').css( "background-color" , "#009080" );
@@ -10,6 +17,10 @@ $('#home').hover(function()
 	$('#home').css( "border-color", "white" );
 
 });
+
+
+
+
 
 
 
