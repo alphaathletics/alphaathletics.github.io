@@ -2,6 +2,7 @@
 $(document).ready(function(){
 	$('#home').css( "border-right", "0px" );
 	$('#photos').css( "border-right", "0px" );
+	$('#promo').css( "padding-top", "0px" );
 });
 
 
