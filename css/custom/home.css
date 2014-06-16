@@ -28,6 +28,7 @@
 	padding-left: 15%;
 	padding-right: 15%;
 	padding-top: 30px;
+
 }
 
 .youtube{
@@ -89,6 +90,21 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
+
+.promo_font_style{
+	font-size: 26px;
+	font-weight: bold;
+	font-style: sans-serif;
+	color: #610;
+	text-decoration: underline;
+
+	/*padding-top: 30px;*/
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+}
+
 
 .___font_style{
 	margin-left: auto;
