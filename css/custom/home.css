@@ -97,6 +97,24 @@
 	font-family: calibri, serif;
 }
 
+.profile{
+
+}
+
+.image_class{
+	border-radius: 5px;
+}
+
+.profile > img{
+	height: 300px;
+	width: 400px;
+	padding-left: 30px;
+	
+	
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
 .promo_font_style{
 	font-size: 26px;
 	font-weight: bold;
